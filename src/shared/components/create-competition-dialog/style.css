@@ -1,0 +1,11 @@
+.input-create-competition {
+    margin-bottom: 10px !important;
+}
+
+.input-date {
+    margin-bottom: 10px;
+    background-color: #404040;
+    border: none;
+    padding: 17px;
+    color: #fff;
+}

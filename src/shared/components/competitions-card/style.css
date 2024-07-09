@@ -1,0 +1,6 @@
+.card-competitions {
+    min-height: 26vh;
+    border-radius: 22px;
+    border: 1px solid #39445B;
+    background:linear-gradient(108deg, rgba(33, 40, 54, 0.56) 0%, rgba(33, 40, 54, 0.56) 100%) !important;            
+}

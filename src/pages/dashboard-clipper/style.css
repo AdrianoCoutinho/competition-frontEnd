@@ -1,0 +1,34 @@
+.separate-box-dashboard {
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.box-dashboard {
+  border-radius: 22px;
+  min-height: 150px;
+  border: 1px solid #22366263;
+  background: #101116 !important;
+}
+
+.separate-box-dashboard-title {
+  font-size: 16px !important;
+}
+
+.separate-box-dashboard-value {
+  font-size: 20px !important;
+}
+
+.tiktok-verify {
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+}
+
+#add-clip {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+}
